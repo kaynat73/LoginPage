@@ -1,0 +1,11 @@
+.multiSelect {
+    height: 28px;
+    text-align: left;
+    font: normal normal medium 14px/18px Montserrat;
+    letter-spacing: 0px;
+    color: #191919;
+    opacity: 0.54;
+    border-radius: 18px !important;
+    background: #F3F3F3 0% 0% no-repeat padding-box !important;
+    /* background-color: red; */
+}
